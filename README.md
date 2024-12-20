@@ -1,7 +1,7 @@
 # Building a sandbox with using VirtualBox
+![Networking Diagram](Diagram.png)
 
 Purpose of the Sandboxed Network:
-
 * Create a secure and isolated environment for learning networking concepts.
 Simulate real-world network scenarios without risks to live systems.
 Task Overview:
